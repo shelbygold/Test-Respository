@@ -20,5 +20,8 @@ class ViewController: UIViewController {
     func INeedaSUpository(){
         print("helloe")
     }
+    func findDrugs(){
+        print("hellosdfsldfh")
+    }
 }
 
