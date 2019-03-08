@@ -23,5 +23,8 @@ class ViewController: UIViewController {
     func findDrugs(){
         print("hellosdfsldfh")
     }
+    func newCoolfunc(){
+        print("helsdlfksd")
+    }
 }
 
